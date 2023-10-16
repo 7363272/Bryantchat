@@ -3,12 +3,12 @@
 window.onload = function () {
     // Your web app's Firebase configuration
     var firebaseConfig = {
-        apiKey: "AIzaSyCTNrHNBctO7cyt69KywJQMo6tDmYooDnM",
-        authDomain: "chatbox-6d9ef.firebaseapp.com",
-        projectId: "chatbox-6d9ef",
-        storageBucket: "chatbox-6d9ef.appspot.com",
-        messagingSenderId: "265299592630",
-        appId: "1:265299592630:web:cfce0011434d4aaaa52d17"
+        apiKey: "AIzaSyDOAqe6ku7HaRtqUseR7zpJHfqVij3bkaY",
+        authDomain: "ezchat-25e15.firebaseapp.com",
+        projectId: "ezchat-25e15",
+        storageBucket: "ezchat-25e15.appspot.com",
+        messagingSenderId: "786380093249",
+        appId: "1:786380093249:web:4954f9179e1301e141d3c0"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
