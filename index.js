@@ -39,7 +39,7 @@ window.onload = function () {
 
             var title = document.createElement('h1')
             title.setAttribute('id', 'title')
-            title.textContent = 'BryantChat'
+            title.textContent = 'EZ CHAT V1'
 
             title_inner_container.append(title)
             title_container.append(title_inner_container)
